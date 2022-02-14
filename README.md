@@ -1,6 +1,6 @@
 ## <div align="center">Olá, me chamo Hudson Menezes 👋 e sou aprendiz de Front-End!</div>
 
-<div>
+<div align="center">
   <a href="https://github.com/HudsonMenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonMenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonMenezes&layout=compact&langs_count=7&theme=dark"/>
