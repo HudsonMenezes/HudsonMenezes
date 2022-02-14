@@ -1,4 +1,4 @@
-### Olá, me chamo Hudson Menezes 👋
+### Olá, me chamo Hudson Menezes 👋 e sou aprendiz de Front-End!
 
 <div align="center">
   <a href="https://github.com/HudsonMenezes">
