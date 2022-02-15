@@ -1,4 +1,4 @@
-## <div align="center">Olá, me chamo Hudson Menezes 👋 e sou aprendiz de Front-End!</div>
+## <div align="center">Olá, me chamo Hudson Menezes, sou aprendiz de Front-End e estudo Engenharia de Software! 👋</div>
 
 <div align="center">
   <a href="https://github.com/HudsonMenezes">
