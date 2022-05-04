@@ -1,4 +1,4 @@
-### <div align="center">Olá, me chamo Hudson Menezes, sou apaixonado por Front-End e estudante de Engenharia de Software! 👋</div>
+### <div align="center">Hello and Wellcome! My name is Hudson Menezes, i'm passionate about Front-end Development and i'm studying Software Engeneering. 👋</div>
 
 <div align="center">
 
