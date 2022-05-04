@@ -1,8 +1,43 @@
-## <div align="center">Olá, me chamo Hudson Menezes, sou aprendiz de Front-End e estudo Engenharia de Software! 👋</div>
+### <div align="center">Olá, me chamo Hudson Menezes, sou apaixonado por Front-End e estudante de Engenharia de Software! 👋</div>
 
 <div align="center">
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const Hudson = {
+    personal: {
+        fullName: 'Hudson Menezes',
+        birthDate: '09-25-1990',
+        pronouns: 'he' | 'his',
+        interests: ['music', 'books', 'programming', 'movies'],
+        motivation: [
+            'Become 1% better then yesterday',
+            'Make the world better through technology',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js']
+            }
+        },
+    }
+}
+```
+  </div>
+</details>
+  
+<div align="center">
   <a href="https://github.com/HudsonMenezes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonMenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- Mostra qualificação do perfil <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonMenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonMenezes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div align="center" style="dysplay: inline-block"><br>
