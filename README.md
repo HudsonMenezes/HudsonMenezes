@@ -1,4 +1,4 @@
-### <div align="center">Hello and Wellcome! My name is Hudson Menezes, i'm passionate about Front-end Development and i'm studying Software Engeneering. 👋</div>
+### <div align="center">Hi! 👋 I'm Hudson Menezes, passionate about Front-end Development and currently studying Software Engeneering and Fullstack Web Development. </div>
 
 <div align="center">
 
@@ -21,12 +21,12 @@ const Hudson = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
+                Javascript: ['Vanilla JS', 'React', 'API', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['styled-components', 'Bootstrap'],
+                CSS: ['CSS', 'styled-components'],
             },
             backEnd: {
-                Javascript: ['Node.js']
+                Javascript: []
             }
         },
     }
