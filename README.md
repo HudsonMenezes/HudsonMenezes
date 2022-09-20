@@ -3,7 +3,7 @@
 <div align="center">
 
 <details>
-  <summary> More about me</summary>
+  <summary> Click here to know more about me</summary>
 <div align="left">
  
 ``` js
