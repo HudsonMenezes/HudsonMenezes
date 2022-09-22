@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou atualmente me graduando em Engenharia de Software<br>🌱 Me especializando em Desenvolvimento Web Fullstack pela Gama Academy<br>⚡ Estudando Francês nos tempos livres (quando há tempo livre)<br>🤝 E estou procurando oportunidade como Desenvolvedor Web Frontend<br>
+🔭 Atualmente me graduando em Engenharia de Software<br>🌱 Me especializando em Desenvolvimento Web Fullstack pela Gama Academy<br>⚡ Estudando Francês nos tempos livres (quando há tempo livre)<br>🤝 E estou procurando oportunidade como Desenvolvedor Web Frontend<br>
 
 
 ## 🌐 Socials:
