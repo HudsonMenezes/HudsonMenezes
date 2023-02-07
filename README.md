@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Bacharel em Engenharia de Software<br>🌱 Desenvolvedor Web Fullstack pela Gama Academy<br>⚡ Estudando Francês nos tempos livres (quando há tempo livre)<br>🤝 E estou procurando oportunidade como Desenvolvedor Web Frontend<br>
+🔭 Cursando Bacharelado em Engenharia de Software<br>🌱 Desenvolvedor Web Fullstack pela Gama Academy<br>⚡ Estudando Francês nos tempos livres (quando há tempo livre)<br>🤝 E estou procurando oportunidade como Desenvolvedor Web Frontend<br>
 
 
 ## 🌐 Socials:
